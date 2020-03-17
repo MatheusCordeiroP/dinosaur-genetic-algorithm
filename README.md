@@ -3,7 +3,7 @@ This project is a study about Genetic Algorithm using as base the idea of google
 There are the possibility to change some variables with the simulation running to see how the variables affect the simulation.
 
 ## Demo Gif
-//Aqui vai vir um gif
+![](Dino.gif)
 
 ## How it works
 This study is about a Genetic Algorithm, that is a kind of Algorithm that "acts like" natural selection,
