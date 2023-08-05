@@ -1,6 +1,8 @@
-# Dinosaur-IA-Genetic-
+# dinosaur-genetic-algorithm
 This project is a study about Genetic Algorithm using as base the idea of google dinosaurs.
 There are the possibility to change some variables with the simulation running to see how the variables affect the simulation.
+
+This is an Unity Project, it was created originally in Unity 2019.2.15f1, but I also tested it in Unity 2022.3.0f and it works, so I guess any version after 2019.2.15f1 will work.
 
 ## Demo Gif
 ![](Dino.gif)
@@ -59,3 +61,16 @@ else the survivors will die anyway and the next generation will be completely ne
 #### GenerationCountdown
 Generation Countdown sets how much time a generation will lasts. _(if all dinos die, a new generation will begin, even if
 the time is not over.)_
+
+## How to run this Project?
+If you want just to "play", change the parameters to see the differences between generations, and to test everything, you can unzip the zip file "Game" and run "Dinossauro IA.exe" file. It should works in any windows.
+
+If you want to change the code, change the game, create something based on this, you will need to know that this project was made with a Game Engine, so it will need it to be modified.
+You will need to download <a href="https://unity.com/pt/download">Unity Game Engine</a>.
+
+This project was created originally in Unity 2019.2.15f1, but I also tested it in Unity 2022.3.0f and it works, so I guess any version after 2019.2.15f1 will work. So after downloading Unity Hub, you just need to download some of these versions of unity and run the project.
+
+After doing that, you can see some folders, in the project, click in the folder "Scenes" and open the file "Sample Scene.unity", so you will open the main scene of the project.
+Feel free to create new scenes or edit this scene for test reasons.
+
+If you have any problem, feel free to contact me.
