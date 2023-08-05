@@ -63,7 +63,7 @@ Generation Countdown sets how much time a generation will lasts. _(if all dinos 
 the time is not over.)_
 
 ## How to run this Project?
-If you want just to "play", change the parameters to see the differences between generations, and to test everything, you can unzip the zip file "Game" and run "Dinossauro IA.exe" file. It should works in any windows.
+If you want just to "play", change the parameters to see the differences between generations, and to test everything, you can unzip the zip file <a href="https://github.com/MatheusCordeiroP/dinosaur-genetic-algorithm/blob/main/Game.rar">*Game*</a> and run "Dinossauro IA.exe" file. It should works in any windows.
 
 If you want to change the code, change the game, create something based on this, you will need to know that this project was made with a Game Engine, so it will need it to be modified.
 You will need to download <a href="https://unity.com/pt/download">Unity Game Engine</a>.
@@ -73,4 +73,4 @@ This project was created originally in Unity 2019.2.15f1, but I also tested it i
 After doing that, you can see some folders, in the project, click in the folder "Scenes" and open the file "Sample Scene.unity", so you will open the main scene of the project.
 Feel free to create new scenes or edit this scene for test reasons.
 
-If you have any problem, feel free to contact me.
+If you have any problem, feel free to contact me at <a  href="mailto:matheuscordeirop@gmail.com" alt="Gmail" target="blank" >matheuscordeirop@gmail.com</a>.
